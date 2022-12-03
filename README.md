@@ -10,3 +10,9 @@ The dataset has a shape of 7796 rows and 4 columns. The columns are: news, title
 - Numpy
 - Pandas
 - SKLearn
+
+## Running the project
+
+```bash
+python3 main.py
+```
